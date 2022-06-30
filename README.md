@@ -1,6 +1,5 @@
-## Oiii! Eu sou Lucas Morais
+## Oiii! Eu sou Lucas, estou no 1º de Graduação em ADS.
 
-- 📚1º ano em ADS
 
 <div align="center">
   <a href=https://github.com/lucasmoraisnt>
