@@ -1,6 +1,9 @@
 ## Oiii! Eu sou Lucas Morais
 
-- Estudando ADS
+- 📚Estudando ADS
+- 🏐Amo esportes
+- Ele/da minha namorada
+- 
 
 <div align="center">
   <a href=https://github.com/lucasmoraisnt>
