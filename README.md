@@ -1,5 +1,7 @@
 ## Oiii! Eu sou Lucas Morais
 
+- Estudando ADS
+
 <div align="center">
   <a href=https://github.com/lucasmoraisnt>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmoraisnt&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
