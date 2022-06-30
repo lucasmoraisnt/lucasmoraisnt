@@ -1,7 +1,6 @@
 ## Oiii! Eu sou Lucas Morais
 
 - 📚1º ano em ADS
-- 🏐Amo esportes
 
 <div align="center">
   <a href=https://github.com/lucasmoraisnt>
