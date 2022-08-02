@@ -1,4 +1,4 @@
-## Oiii! Eu sou Lucas, estou no 1º ano de Graduação em ADS.
+## Oiii! Eu sou Lucas, estou cursando ADS.
 
 
 <div align="center">
